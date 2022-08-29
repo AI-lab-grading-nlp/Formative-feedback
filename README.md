@@ -3,7 +3,6 @@
 ## About the project
 Experiments with localized versions of AI models to find fast short-answer response feedback methods.
 
-
 ## Requirements
 
 ### Prerequisites
